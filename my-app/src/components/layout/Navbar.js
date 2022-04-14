@@ -2,8 +2,6 @@ import { Link } from 'react-router-dom';
 
 import Container from './Container';
 
-import Footer from './Footer';
-
 import styles from './Navbar.module.css';
 import logo from '../../img/developer_logo.png';
 
